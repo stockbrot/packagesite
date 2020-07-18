@@ -18,7 +18,7 @@
     "google-fonts-plugin": "^4.0.2",
     "material-design-icons": "^3.0.1",
     "vue": "^2.5.2",
-    "vuetify": "^1.5.14"
+    "vuetify": "^2.1.9"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
